@@ -1,2 +1,2 @@
 # Binary-Classification-for-Rainfall
-Cleaned, explored, compared various classifiers to predict the presense of rainfaill using historical weather features.
+Cleaned, explored, compared various classifiers to predict the presence of rainfaill using historical weather features.
